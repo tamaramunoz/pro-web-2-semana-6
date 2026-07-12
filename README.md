@@ -12,9 +12,10 @@ Este proyecto representa una aplicación web Fullstack dinámica que integra una
 ## Tecnologías utilizadas:
 
 - PHP
-- JavaScript (ES6+)
+- JavaScript
 - HTML5
 - CSS3
+- MySQL
 
 
 ## Desarrollado por:
